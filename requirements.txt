@@ -1,0 +1,4 @@
+bytewax==0.21.0
+confluent-kafka==2.5.3
+prometheus_client==0.20.0
+typing_extensions==4.12.2
